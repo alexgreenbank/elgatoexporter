@@ -8,7 +8,7 @@ import (
 )
 
 const (
-	prefix = "elgato_keylight" // TODO
+	prefix = "elgato_keylight" // TODO - ability to specify/override
 )
 
 type Recorder interface {

@@ -8,3 +8,4 @@ $ curl http://192.168.1.209:9123/elgato/lights
 TODO
 * Add some tests
 * Need the ability to set labels for a particular light (IP/port) to give it a location
+* Specify multiple lights/targets to scrape (via a config file?)
